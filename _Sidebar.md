@@ -1,4 +1,4 @@
-## [Accueil](https://github.com/MFournier88/420-113/wiki/Accueil)
+## [Accueil](https://github.com/MFournier88/420-113/wiki/Home)
 
 ## [Semaine 1 - Désassemblage](https://github.com/MFournier88/420-113/wiki/Semaine-1)
 
