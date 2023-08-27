@@ -46,7 +46,7 @@ Traditionnellement, le *chipset* est divisé en 2 parties : *Northbridge* et *So
 Depuis quelques années cependant, la plupart des fonctions de Northbridge sont incluses dans le CPU lui-même
 
 ## Socket et CPU
-Le CPU (*Central Processing Unit*) est le processeur principal du PC: il est chargé d'exécuter les instructions qui sont lancées par chacun des programmes qui roulent sur le PC. Su la carte-mère, *socket* est le boîtier qui permet de maintenir le CPU en place. Il relie chacun des points de contacts du CPU avec les points correspondants sur la carte-mère. Chaque *socket* est donc conçu spécifiquement pour certains types de CPU; la compatibilité entre les deux est essentielle.
+Le CPU (*Central Processing Unit*) est le processeur principal du PC: il est chargé d'exécuter les instructions qui sont lancées par chacun des programmes qui roulent sur le PC. Sur la carte-mère, le *socket* est le boîtier qui permet de maintenir le CPU en place. Il relie chacun des points de contacts du CPU avec les points correspondants sur la carte-mère. Chaque *socket* est donc conçu spécifiquement pour certains types de CPU; la compatibilité entre les deux est essentielle.
 
 Attention, tous les processeurs d'une même génération ne sont pas nécessairement compatibles à un même *socket*: c'est plutôt la fréquence (en MHz) qui est déterminante. Quelques exemples:
 
@@ -59,7 +59,7 @@ Attention, tous les processeurs d'une même génération ne sont pas nécessaire
 Plus d'informations: https://www.cpu-world.com/Sockets/index.html
 
 ## RAM 
-La RAM (*Random Access Memory*) permet de stocker les instructions des programmes qui s'exécutent sur le PC et les données que ces programmes utilisent. Elle correspond à la capacité de traitement des informations d'un PC: ce qui ne peut pas être mis en RAM faute de place devra être écrit sur le disque, et les opérations de lecture et écriture sur disque sont beaucoup plus lentes que celles dans la RAM. Ainsi, elle a un impact important sur les performances D'un PC.
+La RAM (*Random Access Memory*) permet de stocker les instructions des programmes qui s'exécutent sur le PC et les données que ces programmes utilisent. Elle correspond à la capacité de traitement des informations d'un PC: ce qui ne peut pas être mis en RAM faute de place devra être écrit sur le disque, et les opérations de lecture et écriture sur disque sont beaucoup plus lentes que celles dans la RAM. Ainsi, elle a un impact important sur les performances d'un PC.
 
 La plupart des PC actuels utilisent des modules de mémoire *DIMM* (*Dual Inline Memory Module*) dont la taille (comptée en "pins", qui est le nombre de points de contacts électroniques qu'elle contient) peut varier de 100 à 288 pins selon le type. Il existe aussi des modules SO-DIMM (260 pins) ou encore Micro-DIMM (172 pins, DDR2 seulement), qui sont plus petits que des modules DIMM habituels et sont utilisés dans des ordinateurs portables principalement.
 
