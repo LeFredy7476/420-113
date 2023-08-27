@@ -23,11 +23,11 @@ Le bloc d'alimentation doit subvenir aux besoins de toutes les composantes. Cert
 [*source: https://commons.wikimedia.org/wiki/File:OCZ_600W_power_supply_unit.JPG*](https://commons.wikimedia.org/wiki/File:OCZ_600W_power_supply_unit.JPG)
 
 ## Carte-mère : composantes électroniques diverses
-Les circuits de la carte-mère sont très sensibles et le courant fourni par le bloc d'alimentation n'est pas toujours "propre" ni exactement conforme aux besoins de ces micro-circuits. Ainsi, la carte comprend des éléments qui servent à filtrer et régulariser le courant qu'elle distribue. Ces éléments sont de 3 types principalement:
+Les circuits de la carte-mère sont très sensibles et le courant fourni par le bloc d'alimentation n'est pas toujours "propre" ni exactement conforme aux besoins de ces micro-circuits. Ainsi, la carte comprend des éléments qui servent à filtrer et régulariser le courant qu'elle distribue. Ces éléments sont de 4 types principalement:
 
 | Pièce | Rôle | 
 | ----- | ---- | 
-| Condensateur | Permet d'accumuler et régulariser le courant électrique |
+| [Condensateur](https://www.youtube.com/watch?v=MUrG2sFIjYo) | Permet d'accumuler et régulariser le courant électrique |
 | Bobine d'arrêt ("Choke") | Filtrer le courant électrique |
 | Inducteur | Attenuer le courant électrique |
 | MOSFET | *Metal Oxide Semiconductor Field Effect Transistor*, usages divers |
