@@ -29,7 +29,7 @@ Les circuits de la carte-mère sont très sensibles et le courant fourni par le 
 | ----- | ---- | 
 | [Condensateur](https://www.youtube.com/watch?v=MUrG2sFIjYo) | Permet d'accumuler et régulariser le courant électrique |
 | Bobine d'arrêt ("Choke") | Filtrer le courant électrique |
-| Inducteur | Attenuer le courant électrique |
+| [Inducteur](https://www.youtube.com/watch?v=16TAJREID_0&list=PLvX5VVNKso909CphZeV2iP8Jp5rgt2-jV&index=3) | Attenuer le courant électrique |
 | MOSFET | *Metal Oxide Semiconductor Field Effect Transistor*, usages divers |
 
 ![compo](images/compo.jpg)
