@@ -18,7 +18,7 @@ Regarder le flux d'information!
       - Périphérique de stockage : Permet le stockage d'information. 
       - Etc.
 
-## Mémoire (RAM,SSD,HDD)
+## Mémoire (SSD,HDD)
 
 ### Terme important
 NVMe : C'est une interface conçue spécialement pour les SSD. Elle est plus rapide que SATA. Sur une base théorique NVMe a un potentiel de 3 000 000 IOPs (opération d'entrées/sorties par seconde) vs 150 000 pour SATA. En pratique, La différence est moins grande, mais le potentiel de NVMe reste beaucoup plus grand.
