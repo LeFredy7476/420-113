@@ -34,7 +34,7 @@ Lors de la création de la VM, il est possible de définir plusieurs options, co
 
 Ce qu'on modifie ici sont les composantes matérielles virtualisées de la VM. Pour certaines composantes (par exemple les disques, les interfaces réseau, etc.) il est possible d'en ajouter ou d'en supprimer (boutons `Add` et `Remove`).
 
-### **Mémoire**
+### **Mémoire** ou mémoire vive
 Il est possible de spécifier très précisément la quantité de mémoire allouée à la VM. Attention cependant: si vous n'en allouez pas assez, la VM risque de mal fonctionner, et si vous en allouez trop c'est votre PC qui pourrait être affecté... La limite inférieure est généralement donnée dans les spécifications techniques du SE : par exemple, Debian recommande 2Go; Windows 11, 4Go; etc. Pour la limite supérieure, il est préférable de ne pas dépasser la quantité de RAM réelle de l'hôte.
 
 ### **Processeur**
