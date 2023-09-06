@@ -58,10 +58,6 @@ Une image ISO est une représentation numérique complète et exacte d'un disque
 
 La mémoire virtuelle est un mécanisme couramment utilisé dans les systèmes d'exploitation modernes pour simuler la disponibilité de plus de mémoire centrale que ce qui est réellement disponible. Elle permet l'exécution simultanée de plusieurs programmes en stockant une partie de leurs données dans une mémoire de masse plus grande mais plus lente. Les programmes disposent d'espaces virtuels de mémoire, et lorsque leur accès à des données est nécessaire, l'unité de gestion mémoire traduit les adresses virtuelles en adresses physiques. En cas de manque de mémoire centrale, le système d'exploitation effectue automatiquement des opérations d'échange pour transférer les données entre la mémoire centrale et la mémoire de masse, sans que les programmes en aient conscience
 
-## Windows
-https://www.microsoft.com/fr-ca/software-download/windows10
-
-![Lien téléchargement](images/isoWindows1.PNG)
 
 ## Hachage
 
@@ -109,13 +105,13 @@ Allez voir la vidéo source pour plus d'info : https://www.youtube.com/watch?v=_
 |FAT16|4GB|16GB|
 |FAT32|4GB|32GB/2TB/16TB|
 
-Compatible avec beaucoup d'OS dont Windows,macOS et Linux
+Compatible avec beaucoup d'OS dont Windows, macOS et Linux
 
 
 ### New technology file system(NTFS)
 
 Avantage : 
-- Volume et taille de fichier presque infini(16 EB ou 16 000 000 000 000 000 000 bytes ou  16 milliard de GB)
+- Volume et taille de fichier presque infini(16 EB ou 16 000 000 000 000 000 000 bytes ou 16 milliard de GB)
 
 - Système de journalisation
 
@@ -129,7 +125,8 @@ Désavantage:
 Amélioration de FAT.
 
 Taille maximum de fichier de 16 EB
-Optimal pour les mémoires de hautes capacité(plus de 32GB)
+
+Optimal pour les mémoires de hautes capacités(plus de 32GB)
 
 ### ext2,ext3,ext4
 
@@ -137,17 +134,21 @@ ext3 et ext4 : ont de la journalisation
 
 ext4: Taille de 16TB et volume de 1EB.
 
-Pas supporté sur les autres OS
+Pas supporté sur les autres OS. Conçu pour les produits Linux.
 
 ### HFS, HFS+ & APFS
 
 HFS+ : apport de journalisation
 
 APFS : optimiser pour SSD.
-Pas de supporté sur les autres OS
+
+Pas de supporté sur les autres OS. Conçu pour les produits apples.
 
 
 ## RAID
+
+Écouter le vidéo:
+
 https://www.youtube.com/watch?v=U-OCdTeZLac
 
 
