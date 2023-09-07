@@ -145,7 +145,7 @@ APFS : optimiser pour SSD.
 Pas de supporté sur les autres OS. Conçu pour les produits apples.
 
 
-## RAID
+## RAID (Redundant array of Independent Disks)
 
 Écouter le vidéo:
 
