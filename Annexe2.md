@@ -19,7 +19,7 @@
 #### 5. Dans la section "Boot", placez `CD-ROM` devant `Hard Disk` dans l'ordre d'amorçage. Sauvegardez et quittez avec la touche F10.
 <kbd>![boot](images/boot.png)</kbd>
 
-#### 6. Installez *Debian* normalement jusqu'à l'étape du partitionnement.
+#### 6. Installez *Debian* normalement jusqu'à l'étape du partitionnement.(Utiliser l'installation graphique)
 #### 7. Au moment de partitionner les disques, vous devrez choisir d'installer *Debian* dans l'espace que vous avez libéré à l'étape 2. Choisissez "Manuel". 
 <kbd>![manuel](images/manuel.png)</kbd>
 
