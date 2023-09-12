@@ -1,7 +1,7 @@
 # Procédure de multi-amorçage Windows 10 et Linux Debian
 ### Prérequis
 + Avoir installé Windows 10
-+ Avoir un firmware de type BIOS sur la VM Windows
++ Avoir un firmware de type UEFI sur la VM Windows
   
 #### 1. Démarrez la VM *Windows*, ouvrez une session, puis lancez le programme de partitionnement des disques.
 <kbd>![partition](images/partition.png)</kbd>
