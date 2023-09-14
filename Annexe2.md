@@ -19,7 +19,7 @@
 <kbd>![power](images/power.png)</kbd>
 
 #### 5. Dans le "BootManager", choisissez de 'boot' avec ce qui se trouve dans le CDROM Drive. 
-<kbd>![boot](images/bootUefi.png)</kbd>
+<kbd>![boot](images/bootUefi2.png)</kbd>
 
 #### 6. Installez *Debian* normalement jusqu'à l'étape du partitionnement.(Utiliser l'installation graphique)
 #### 7. Au moment de partitionner les disques, vous devrez choisir d'installer *Debian* dans l'espace que vous avez libéré à l'étape 2. Choisissez "Manuel". 
