@@ -33,3 +33,4 @@
 ## Annexes
 + [Création d'une VM *Debian* dans *VMWare Workstation*](https://github.com/MFournier88/420-113/wiki/Annexe1)
 + [Procédure de multi-amorçage *Windows 10* et *Linux Debian*](https://github.com/MFournier88/420-113/wiki/Annexe2)
++ [Procédure d'accès aux données d'un autre SE](https://github.com/MFournier88/420-113/wiki/Annexe3)
