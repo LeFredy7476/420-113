@@ -73,6 +73,14 @@ ceci est une phrase
 info@debian:~$ echo $a
 ceci est une phrase
 ```
+### Lire plusieurs valeurs simultanément
+La commande `read` peut prendre plusieurs entrées simultanément.
+```sh
+info@debian:~$ echo "Fournier Maxime" > nomComplet.txt
+info@debian:~$ read nom prenom < nomComplet.txt
+info@debian:~$ echo $prenom $nom
+Maxime Fournier
+```
 ## Conditions 
 Les structures conditionnelles doivent avoir la syntaxe suivante:
 ```

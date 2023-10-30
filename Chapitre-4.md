@@ -107,3 +107,22 @@ Pour importer une VM dans *Workstation*, il s'agit de double-cliquer sur le fich
 
 Pour y accéder, allez au menu `File -> Power -> Power On to Firmware`
 
+# Exercices
+
+1. Créer un instantané(snapshot) et nommer le vieuxBackground
+2. Changer le fond d'écran(background) 
+3. Revenir au snapshot vieuxBackground et confirmer que le fond d'écran est revenu au précédant.
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -127,6 +127,14 @@ info@debian:~$ echo $VAR
 12345
 ```
 
+### `<()` : Substitution de processus
+Lorsqu'un processus n'accepte en entrée que des fichiers, mais que non ne voulons pas créer de fichier inutilement, nous pouvons utiliser la substitution de processus.
+
+```
+info@debian:~$ read VAR < <(echo "12345")
+info@debian:~$ echo $VAR
+12345
+```
 ### `|` : Enchaînement de commandes ("piping")
 Enfin, il est possible de rediriger la sortie d'une commande vers l'entrée d'une autre commande. Ceci est très utile car cela nous permet d'effectuer des opérations complexes en une seule ligne. 
 

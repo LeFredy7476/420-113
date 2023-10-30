@@ -11,7 +11,7 @@ Quelques exemples de distributions utilisant linux ou une version modifiée du n
 + WebOS (utilisée dans les téléviseurs LG)
   
 ## Distributions
-Une *distribution* linux est un système d'exploitation basé sur le noyau linux. Chacun de ces SE peut contenir des programmes différents (à l'excpetion du noyau...). Les distributions se différencient donc par leur apparence, la manière dont on peut y installer des logiciels, etc.
+Une *distribution* linux est un système d'exploitation basé sur le noyau linux. Chacun de ces SE peut contenir des programmes différents (à l'exception du noyau...). Les distributions se différencient donc par leur apparence, la manière dont on peut y installer des logiciels, etc.
 
 Étant donné que chacun est libre de créer des nouvelles distributions, celles-ci sont très nombreuses. Il n'existe pas de statistiques officielles sur le sujet mais on peut affirmer qu'il existe plusieurs milliers de distributions linux. 
 
