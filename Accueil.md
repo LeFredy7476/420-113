@@ -28,7 +28,7 @@ Ce wiki contient les notes du cours Système d'exploitation.
 
 [Chapitre 12.2 - Journaux système](https://github.com/MFournier88/420-113/wiki/Chapitre-12.2)
 
-[Chapitre 13 - Programmation *bash*](https://github.com/MFournier88/420-113/wiki/Chapitre-13)
+[Chapitre 13 - Programmation *bash*](https://github.com/MFournier88/420-113/wiki/Chapitre-13-et-14)
 
 
 
